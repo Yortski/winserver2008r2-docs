@@ -2,8 +2,8 @@ site_name: Windows Server 2008 R2 Installation Guide
 site_description: Installation Guide for Windows Server 2008 R2 on VirtualBox
 site_author: Yortski
 
-repo_name: yortski/n8n-docs
-repo_url: https://github.com/yortski/n8n-docs
+repo_name: yortski/winserver2008r2-docs
+repo_url: https://github.com/yortski/winserver2008r2-docs
 
 theme:
   name: material
@@ -60,10 +60,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Prerequisites: prerequisites.md
-  - Installation (Node.js): installation.md
-  - Basics: basics.md
-  # - First Challenge: firstChallenge.md
-  - FAQs: faqs.md
+  - VirtualBox Setup: vbsetup.md
+  - Installation: installation.md
+  # - FAQs: faqs.md
 
 extra:
   generator: false
