@@ -2,7 +2,7 @@
 !!! note
     I am using VirtualBox v7.1. Older or newer version of VirtualBox may have different steps or interface.
 
-![virtualboxdbsetup1](/images/insta1.png)
+![virtualboxdbsetup1](images/insta1.png)
 
 From the interface above, click **New** and when a window pops up, set these configurations. You may tinker with more or less values depending on the capability of your machine
 
@@ -24,16 +24,16 @@ If a field was not mentioned, keep it as default.
 
         My Suggestion, stay within the green area
 
-    ![virtualboxdbsetup2](/images/insta2.png)
-    ![virtualboxdbsetup3](/images/insta3.png)
-    ![virtualboxdbsetup4](/images/insta4.png)
+    ![virtualboxdbsetup2](images/insta2.png)
+    ![virtualboxdbsetup3](images/insta3.png)
+    ![virtualboxdbsetup4](images/insta4.png)
 
 ---
 
 - ### **Attach the Disk**
 After completing the Virtual Machine's config by clicking **```Finish```**, Select the machine we have just created and then click Settings.
 
-    ![virtualboxdbsetup5](/images/insta5.png)
+    ![virtualboxdbsetup5](images/insta5.png)
 
     Make sure you are on **```Expert```** or **```Advanced```** mode then click Storage Tab.
 
@@ -43,7 +43,7 @@ After completing the Virtual Machine's config by clicking **```Finish```**, Sele
 
     After that navigate to the folder where your **```Windows Server 2008 R2.iso```** is located and select it.
 
-    ![virtualboxdbsetup6](/images/insta6.png)
+    ![virtualboxdbsetup6](images/insta6.png)
 
     Complete the process by clicking **```OK```**
 

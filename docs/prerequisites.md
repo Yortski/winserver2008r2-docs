@@ -18,7 +18,7 @@ We need Virtual Box to host the virtual machine that will install our disc image
 
 To that, just head over to [oracle.com/virtualization/virtualbox/](https://www.oracle.com/virtualization/virtualbox/) and download an installer that fits your machine. As I am on a Windows machine, I am getting the Windows Installer.
 
-![virtualboxdbpage1](/images/oravb1.png)
-![virtualboxdbpage2](/images/oravb2.png)
+![virtualboxdbpage1](images/oravb1.png)
+![virtualboxdbpage2](images/oravb2.png)
 
 ---
