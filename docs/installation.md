@@ -15,13 +15,13 @@
 
 After starting the machine for the first time, the first screen to pop up will be this
 
-![iwin1](/images/installwin/installwin1.png)
+![iwin1](/images/installwin1.png)
 
 Just click **```Next```** to proceed to the next step.
 
 ---
 
-![iwin2](/images/installwin/installwin2.png)
+![iwin2](/images/installwin2.png)
 
 Here, you will click **```Install now →```** then the setup will start
 
@@ -31,8 +31,8 @@ Here, you will click **```Install now →```** then the setup will start
 
 After the setup has completed, A window will ask us which Operating System we wish to install. For this guide, we will just instull the **```Standard (Full Installation)```**. Choose that option and click **```Next```** then accept the agreement.
 
-![iwin4](/images/installwin/installwin4.png)
-![iwin5](/images/installwin/installwin5.png)
+![iwin4](/images/installwin4.png)
+![iwin5](/images/installwin5.png)
 
 ---
 
@@ -47,7 +47,7 @@ After accepting the agreement, we will be asked which type of installation do we
 
     <!-- [referenced video](https://youtu.be/WSRbSbVZ0aM?t=380) -->
 
-![iwin6](/images/installwin/installwin6.png)
+![iwin6](/images/installwin6.png)
 
 ---
 
@@ -55,7 +55,7 @@ After accepting the agreement, we will be asked which type of installation do we
 
 On this part, keep **```Disk 0```** selected and click **```Next```**
 
-![iwin7](/images/installwin/installwin7.png)
+![iwin7](/images/installwin7.png)
 
 ---
 
@@ -66,17 +66,17 @@ Once you reach this point, keep your fingers out of the keyboard. Do not do **``
 !!! note
     The process may cause some reboots. That's normal. Just wait it out and be patient.
 
-![iwin8](/images/installwin/installwin8.png)
+![iwin8](/images/installwin8.png)
 
 The image below is the reason why you can't touch your keyboard during this part of the installation. As reported [here](https://youtu.be/WSRbSbVZ0aM?t=380), pressing any key at this part may cause looping during installation. 
 
 **Just be patient and let the installation go through on its own.**
 
-![iwin9](/images/installwin/installwin9.png)
+![iwin9](/images/installwin9.png)
 
 Black screens like these are progress. Just wait them out. Your virtual Machine will be installed soon.
 
-![iwin10](/images/installwin/installwin10.png)
+![iwin10](/images/installwin10.png)
 
 ---
 
@@ -84,7 +84,7 @@ Black screens like these are progress. Just wait them out. Your virtual Machine 
 
 Once you reach this point you are saved. This light gives you the signal to touch that keyboard again.
 
-![iwin11](/images/installwin/installwin11.png)
+![iwin11](/images/installwin11.png)
 
 ---
 
@@ -92,13 +92,13 @@ Once you reach this point you are saved. This light gives you the signal to touc
 
 Upon encountering this message just click **```OK```** and proceed to set up your new password. One that you will remember. After doing that the virtual machine will proceed with its setup.
 
-![iwin12](/images/installwin/installwin12.png)
+![iwin12](/images/installwin12.png)
 
-![iwin13](/images/installwin/installwin13.png)
+![iwin13](/images/installwin13.png)
 
-![iwin14](/images/installwin/installwin14.png)
+![iwin14](/images/installwin14.png)
 
-![iwin15](/images/installwin/installwin15.png)
+![iwin15](/images/installwin15.png)
 
 ---
 
@@ -106,11 +106,11 @@ Upon encountering this message just click **```OK```** and proceed to set up you
 
 Congratulations, you have now installed Windows Server 2008 R2
 
-![iwin16](/images/installwin/installwin16.png)
+![iwin16](/images/installwin16.png)
 
 Wait for a few moment and **```Initial Configuration```** window will pop up. Feel free to install this as you like.
 
-![iwin17](/images/installwin/installwin17.png)
+![iwin17](/images/installwin17.png)
 
 ---
 
@@ -120,7 +120,7 @@ Others may find this weird as their usual key combination does not work ***(Wind
 
 With it, just look at the bottom-right part of the Virtual Machine's window. On the example below you can see **```Right Ctrl```** This means my combination for it is ***(Right Ctrl + Del)***.
 
-![iwin18](/images/installwin/installwin18.png)
+![iwin18](/images/installwin18.png)
 
 If in any case that was changed on your VirtualBox, just go to your VirtualBox' **```Preferences > Input > Virtual Machine```**
 and find the key or key combination assigned to it.
