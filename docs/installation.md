@@ -108,7 +108,7 @@ Congratulations, you have now installed Windows Server 2008 R2
 
 ![iwin16](images/installwin16.png)
 
-Wait for a few moment and **```Initial Configuration```** window will pop up. Feel free to install this as you like.
+Wait for a few moment and **```Initial Configuration```** window will pop up. Feel free to configure this as you like.
 
 ![iwin17](images/installwin17.png)
 
